@@ -15,11 +15,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-           
+            <h1>prueva 001</h1>
             </div>
-           <h1>prueva 001</h1>
-           <h1>prueva 002</h1>
-           <h1>prueva 003</h1>
+            <div class="col-md-4">
+            <h1>prueva 002</h1>
+            </div>
+            <div class="col-md-4">
+            <h1>prueva 003</h1>
+            </div>
+           
         </div>
     
 </div>
